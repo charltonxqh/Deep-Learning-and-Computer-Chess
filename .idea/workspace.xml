@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f7b4bef-d9ba-4fef-8983-27fa5f8218d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/evaluate_development.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/evaluate_fen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/evaluate_king_safety.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/evaluate_king_safety_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/evaluate_material.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/evaluate_pawn_structure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/evaluate_space.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/giraffe_network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Alekhine Alexander 2259 Games from John Pandis.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Geller Efim 2579 Games from W. G. Sanderse.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Gligoric Svetosar (YUG) 3034 Games.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Hort Vlastimil 2521 Games, from W. G. Sanderse.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Ivkov Borislav (YUG) 2503 Games.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Karpov Anatoli GM 3079 Games.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Kasparov Garry 1973-1998 1878 Games.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Keres Paul (EST, 1916-1975) 2324 Games expanded by Jan Malmstrom.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Korchnoi Viktor 3995 Games, from W. G. Sanderse..PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Ljubojevic Ljubomir (YUG) 2070 Games.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Miles Anthony J. (ENG) 2336 Games.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Petrosian Tigran 1850 Games.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Polugaevsky Lev 2050 Games, 1953-1994.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Portisch Lajos (HUN) 2380 Games.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/The History of the World Championship (Male and Female) 3531 Games WCH Matches, Candidate matches, Candidate tournaments From W. G. Sanderse.PGN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,35 +36,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Python.evaluate_development.executor": "Run",
-    "Python.evaluate_fen.executor": "Run",
-    "Python.evaluate_king_safety.executor": "Run",
-    "Python.evaluate_king_safety_2.executor": "Run",
-    "Python.evaluate_material.executor": "Run",
-    "Python.evaluate_pawn_structure.executor": "Run",
-    "Python.evaluate_space.executor": "Run",
-    "Python.giraffe_network.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Desktop/deep-learning-and-computer-chess-2",
-    "onboarding.tips.debug.path": "C:/Desktop/deep-learning-and-computer-chess/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.build.tools.auto.reload": "ALL",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Python.evaluate_development.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evaluate_fen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evaluate_king_safety.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evaluate_king_safety_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evaluate_material.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evaluate_pawn_structure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evaluate_space.executor&quot;: &quot;Run&quot;,
+    &quot;Python.giraffe_network.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Desktop/deep-learning-and-computer-chess-2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Desktop/deep-learning-and-computer-chess/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Desktop\deep-learning-and-computer-chess\resources" />
